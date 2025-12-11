@@ -1,0 +1,417 @@
+{
+    "categories": {
+        "Policy & Reform": { "color": "var(--col-policy)", "label": "Policy & Reform" },
+        "Geopolitics & Trade": { "color": "var(--col-geopolitics)", "label": "Geopolitics & Trade" },
+        "Economy & Industry": { "color": "var(--col-economy)", "label": "Economy & Industry" },
+        "Technology & Innovation": { "color": "var(--col-tech)", "label": "Technology & Innovation" },
+        "Infrastructure & Space": { "color": "var(--col-infra)", "label": "Infrastructure & Space" },
+        "Digital & Cyber": { "color": "var(--col-digital)", "label": "Digital & Cyber" },
+        "Society & Culture": { "color": "var(--col-society)", "label": "Society & Culture" },
+        "Demographics & Talent": { "color": "var(--col-demographics)", "label": "Demographics & Talent" }
+    },
+    "timelineData": [
+        {
+            "era": "Era: The Foundation, 1990-2000",
+            "events": [
+                {
+                    "year": 1990,
+                    "category": "Policy & Reform",
+                    "title": "Shanghai & Shenzhen Stock Exchanges Open",
+                    "desc": "Established the financial plumbing necessary to move beyond state funding. It allowed China to mobilize domestic capital for massive industrial expansion.",
+                    "moreInfo": "The Shanghai Stock Exchange re-opened on November 26, 1990, followed by Shenzhen on December 1. This marked the symbolic end of the purely planned economy, allowing state-owned enterprises to privatize and raise capital from the growing savings of Chinese citizens."
+                },
+                {
+                    "year": 1992,
+                    "category": "Policy & Reform",
+                    "title": "Deng Xiaoping's \"Southern Tour\"",
+                    "desc": "Re-ignited economic reforms by designating \"Special Economic Zones\" (SEZs) like Shenzhen as laboratories for market economics.",
+                    "moreInfo": "At 87, Deng visited Shenzhen, Zhuhai, and Shanghai to rally support for reform against hardliners. His famous declaration, 'To get rich is glorious,' unleashed a wave of entrepreneurship and cemented the 'socialist market economy' model."
+                },
+                {
+                    "year": 1992,
+                    "category": "Society & Culture",
+                    "title": "The \"Xiahai\" (Plunging into the Sea) Wave",
+                    "desc": "The Birth of Capitalist Ambition. Inspired by Deng, roughly 120,000 government officials resigned to enter the private sector.",
+                    "moreInfo": "This phenomenon saw intellectuals and bureaucrats leaving secure 'iron rice bowl' jobs to start businesses. It created China's first generation of modern entrepreneurs, including the founders of companies like Taikang Life and Vantone."
+                },
+                {
+                    "year": 1994,
+                    "category": "Digital & Cyber",
+                    "title": "Internet arrives in China",
+                    "desc": "Connected Chinese researchers to the global digital ecosystem while simultaneously laying the groundwork for the \"Great Firewall\".",
+                    "moreInfo": "China fully connected to the global Internet via a 64K leased line to Sprint in the US. While initially for academics, it quickly spread, leading to the first wave of Chinese internet portals like Sina, Sohu, and NetEase."
+                },
+                {
+                    "year": 1998,
+                    "category": "Digital & Cyber",
+                    "title": "Launch of the \"Great Firewall\"",
+                    "desc": "The Ultimate Digital Trade Barrier. By filtering content and blocking foreign platforms, Beijing created a protected \"walled garden.\"",
+                    "moreInfo": "Officially the 'Golden Shield Project', this massive surveillance and censorship system allowed domestic tech giants to grow without competition from Silicon Valley, fostering a unique, parallel digital ecosystem."
+                },
+                {
+                    "year": 1998,
+                    "category": "Economy & Industry",
+                    "title": "Founding of Tencent, JD.com, and Alibaba",
+                    "desc": "The birth of the \"Platform Economy\" that would later drive the digital payment and logistics infrastructure.",
+                    "moreInfo": "1998-1999 was the 'Cambrian Explosion' of Chinese tech. Ma Huateng founded Tencent (QQ), Jack Ma founded Alibaba in his apartment, and Richard Liu started JD as a retail stall. These firms would become the backbone of China's digital economy."
+                },
+                {
+                    "year": 1998,
+                    "category": "Society & Culture",
+                    "title": "Breaking the \"Iron Rice Bowl\"",
+                    "desc": "Massive SOE layoffs forced millions into the private sector. Housing privatization allowed families to build generational wealth.",
+                    "moreInfo": "Premier Zhu Rongji's brutal reforms laid off over 30 million state workers. Simultaneously, the privatization of state housing created a property market, allowing millions of families to own homes and build the middle-class wealth that drives consumption today."
+                },
+                {
+                    "year": 1999,
+                    "category": "Demographics & Talent",
+                    "title": "The \"Great Expansion\" of Universities",
+                    "desc": "A deliberate policy shift to massively expand university enrollment, sowing the seeds for today's \"Talent Dividend\".",
+                    "moreInfo": "University enrollment jumped by 47% in a single year. This policy transformed China from a nation of low-skilled labor to one with the world's largest pool of STEM graduates, fueling the current high-tech transition."
+                }
+            ]
+        },
+        {
+            "era": "Era: Global Integration, 2001-2010",
+            "events": [
+                {
+                    "year": 2001,
+                    "category": "Geopolitics & Trade",
+                    "title": "WTO Accession",
+                    "desc": "The \"Turbocharger.\" FDI flooded in, allowing Chinese manufacturers to absorb global best practices.",
+                    "moreInfo": "After 15 years of negotiation, China joined the WTO. This integrated China into the global supply chain, leading to a decade of double-digit GDP growth and cementing its status as the 'World's Factory'."
+                },
+                {
+                    "year": 2003,
+                    "category": "Infrastructure & Space",
+                    "title": "Shenzhou-5 Manned Mission",
+                    "desc": "China becomes the third nation to independently send a human into space.",
+                    "moreInfo": "Astronaut Yang Liwei orbited the Earth 14 times. This success signaled China's arrival as a technological superpower and kicked off a systematic space program targeting the Moon and Mars."
+                },
+                {
+                    "year": 2006,
+                    "category": "Policy & Reform",
+                    "title": "\"Indigenous Innovation\" Manifesto",
+                    "desc": "The first clear signal of a strategic pivot from \"copying\" to \"developing,\" encouraging trading market access for tech transfer.",
+                    "moreInfo": "The 'Medium-to-Long-Term Plan for Science and Technology' set a goal to reduce reliance on foreign technology. It introduced policies like 'high-speed rail diplomacy' where foreign firms had to transfer tech to joint ventures to win contracts."
+                },
+                {
+                    "year": 2008,
+                    "category": "Infrastructure & Space",
+                    "title": "First High-Speed Rail (Beijing-Tianjin)",
+                    "desc": "The start of a massive infrastructure build-out that shrank the country's geography.",
+                    "moreInfo": "Opened just before the Olympics, this line hit 350 km/h. It was the blueprint for a network that now exceeds 45,000 km - more than the rest of the world combined - reshaping regional economic integration."
+                },
+                {
+                    "year": 2008,
+                    "category": "Society & Culture",
+                    "title": "Beijing Olympics",
+                    "desc": "A watershed moment for national confidence. Replaced the \"victim mentality\" with a \"great power\" mindset.",
+                    "moreInfo": "The spectacular opening ceremony showcased China's organizational capacity. It marked the psychological transition of the Chinese public from feeling like a developing nation to an emerging superpower."
+                },
+                {
+                    "year": 2009,
+                    "category": "Infrastructure & Space",
+                    "title": "Ultra-High Voltage (UHV) Grid Launch",
+                    "desc": "Massive UHV transmission projects to transport renewable energy from west to east.",
+                    "moreInfo": "China pioneered UHV technology to move power from resource-rich western provinces to the industrial east with minimal loss. This grid is the backbone for integrating massive wind and solar farms today."
+                },
+                {
+                    "year": 2009,
+                    "category": "Policy & Reform",
+                    "title": "Subsidies for EV Pilots",
+                    "desc": "The state began creating a market for EVs a decade before they were commercially profitable.",
+                    "moreInfo": "The 'Ten Cities, Thousand Vehicles' program launched the EV industry. By subsidizing fleets for taxis and buses, the government created initial demand for battery makers like CATL and BYD to scale up."
+                },
+                {
+                    "year": 2010,
+                    "category": "Geopolitics & Trade",
+                    "title": "Rare Earth Export Quotas",
+                    "desc": "The First Supply Chain Weaponization. China restricted rare earth exports to Japan.",
+                    "moreInfo": "Following a maritime dispute, China halted rare earth shipments to Japan. This woke the world up to China's dominance in critical raw materials and sparked global efforts to diversify supply chains."
+                },
+                {
+                    "year": 2010,
+                    "category": "Economy & Industry",
+                    "title": "Founding of Xiaomi",
+                    "desc": "A prime example of \"China Speed.\" Xiaomi showed how to leverage the Shenzhen electronics ecosystem.",
+                    "moreInfo": "Lei Jun founded Xiaomi to build high-quality smartphones at near-cost prices, selling directly online. It pioneered the 'fan economy' and ecosystem model, proving Chinese brands could compete on design and user experience."
+                }
+            ]
+        },
+        {
+            "era": "Era: The Pivot to Innovation, 2011-2019",
+            "events": [
+                {
+                    "year": 2012,
+                    "category": "Geopolitics & Trade",
+                    "title": "China Overtakes US in Total Trade",
+                    "desc": "The Geoeconomic Tipping Point. China surpassed the US as the world's largest trading nation.",
+                    "moreInfo": "This milestone fundamentally changed global geopolitics. For most countries, China became their largest trading partner, giving Beijing immense economic leverage and diplomatic influence."
+                },
+                {
+                    "year": 2013,
+                    "category": "Technology & Innovation",
+                    "title": "China becomes #1 Market for Robots",
+                    "desc": "Faced with rising labor costs, China aggressively pivoted to automation.",
+                    "moreInfo": "As the working-age population began to peak, manufacturers turned to automation. China became the world's largest buyer of industrial robots, driving the growth of domestic robotics firms like Estun and Siasun."
+                },
+                {
+                    "year": 2014,
+                    "category": "Technology & Innovation",
+                    "title": "Launch of the \"Big Fund\" (Phase I)",
+                    "desc": "Mobilized ~$50bn to build a domestic chip supply chain, aiming to reduce reliance on imports.",
+                    "moreInfo": "The National Integrated Circuit Industry Investment Fund poured capital into foundries like SMIC and memory makers like YMTC. It was a direct state intervention to solve the 'lack of core' technology problem."
+                },
+                {
+                    "year": 2014,
+                    "category": "Policy & Reform",
+                    "title": "Establishment of Specialized IP Courts",
+                    "desc": "A structural shift from \"copycat protection\" to \"innovation protection.\"",
+                    "moreInfo": "Beijing, Shanghai, and Guangzhou opened specialized IP courts. As Chinese firms became innovators, they needed protection. Today, Chinese companies are the most litigious users of these courts, suing to protect their own patents."
+                },
+                {
+                    "year": 2014,
+                    "category": "Demographics & Talent",
+                    "title": "Peak Working-Age Population",
+                    "desc": "The turning point for the labor market. Accelerated the urgency for the \"Robot Revolution\".",
+                    "moreInfo": "The labor force began to shrink, ending the era of cheap labor. This demographic cliff forced the government to prioritize 'high-quality development' and automation over labor-intensive manufacturing."
+                },
+                {
+                    "year": 2015,
+                    "category": "Policy & Reform",
+                    "title": "\"Made in China 2025\" Launched",
+                    "desc": "The master plan explicitly aiming to displace Western dominance in 10 high-tech industries.",
+                    "moreInfo": "This industrial policy targeted dominance in sectors like robotics, aerospace, and new energy vehicles. It alarmed Western policymakers and became a central target in the ensuing trade war."
+                },
+                {
+                    "year": 2016,
+                    "category": "Demographics & Talent",
+                    "title": "End of \"One-Child Policy\"",
+                    "desc": "The government allowed two children per couple, but the \"demographic dividend\" had already turned.",
+                    "moreInfo": "The policy shift came too late to reverse the trend. High living costs and changing social norms meant birth rates continued to fall, setting the stage for the current population decline."
+                },
+                {
+                    "year": 2016,
+                    "category": "Society & Culture",
+                    "title": "The \"996\" Era Peaks",
+                    "desc": "The \"9am-9pm, 6 days/week\" work culture becomes the standard in Tech.",
+                    "moreInfo": "Fueled by the fierce competition between Alibaba, Tencent, and startups, '996' became a badge of honor. It drove incredible speed of execution but eventually led to burnout and the 'Lying Flat' movement."
+                },
+                {
+                    "year": 2017,
+                    "category": "Policy & Reform",
+                    "title": "National Intelligence Law",
+                    "desc": "Mandates that organizations support state intelligence work, creating \"Counterparty Risk\" for the West.",
+                    "moreInfo": "Article 7 requires any organization or citizen to 'support, assist and cooperate with the state intelligence work.' This law is frequently cited by Western governments as the reason Chinese tech firms cannot be trusted with critical infrastructure."
+                },
+                {
+                    "year": 2017,
+                    "category": "Digital & Cyber",
+                    "title": "Mass adoption of Mobile Payments",
+                    "desc": "Widespread use of WeChat/Alipay created a cashless society and massive datasets for AI.",
+                    "moreInfo": "China leapfrogged credit cards entirely. The ubiquity of QR code payments generated unprecedented consumer data, fueling AI algorithms for credit scoring, advertising, and governance."
+                },
+                {
+                    "year": 2018,
+                    "category": "Geopolitics & Trade",
+                    "title": "Arrest of Meng Wanzhou",
+                    "desc": "\"Hostage Diplomacy.\" Perceived in China as a direct attack on its national champion.",
+                    "moreInfo": "The Huawei CFO's arrest in Canada on US charges was seen in China as a political move to kneel-cap Huawei. It rallied domestic support for the company and accelerated the drive for tech self-sufficiency."
+                },
+                {
+                    "year": 2018,
+                    "category": "Geopolitics & Trade",
+                    "title": "US-China Trade War Begins",
+                    "desc": "Tariffs forced Chinese companies to look inward (\"Dual Circulation\") and accelerate de-risking.",
+                    "moreInfo": "Trump's tariffs targeted Chinese manufacturing. While painful, it forced Chinese supply chains to become more resilient and diversify into Southeast Asia and the Global South."
+                },
+                {
+                    "year": 2018,
+                    "category": "Society & Culture",
+                    "title": "Rise of \"Guochao\" (National Tide)",
+                    "desc": "Gen Z began favoring domestic brands over Western ones.",
+                    "moreInfo": "A cultural shift where young consumers started preferring brands like Li-Ning and Huawei over Nike and Apple. It reflects growing cultural confidence and the improved quality of domestic products."
+                },
+                {
+                    "year": 2019,
+                    "category": "Geopolitics & Trade",
+                    "title": "Huawei Entity List Ban",
+                    "desc": "The Hardware Blockade. The catalyst for China's \"Hard Tech\" push.",
+                    "moreInfo": "The US ban on selling chips and software to Huawei was a 'Sputnik moment.' It convinced Beijing that it could not rely on Western technology and must build a fully independent semiconductor supply chain at any cost."
+                }
+            ]
+        },
+        {
+            "era": "Era: Technological Supremacy, 2020-2025",
+            "events": [
+                {
+                    "year": 2020,
+                    "category": "Policy & Reform",
+                    "title": "\"Dual Circulation\" & Carbon Neutrality",
+                    "desc": "Pivot to domestic consumption. \"Carbon Neutral 2060\" pledge accelerated green tech.",
+                    "moreInfo": "Xi Jinping's strategy to rely on domestic consumption (internal circulation) while remaining open to trade (external circulation). The Carbon Neutral pledge kickstarted a massive investment boom in solar, wind, and batteries."
+                },
+                {
+                    "year": 2020,
+                    "category": "Policy & Reform",
+                    "title": "Ant Group Incident & Tech Crackdown",
+                    "desc": "The End of the Gilded Age. The Party reasserted control, forcing a pivot from \"Soft Tech\" to \"Hard Tech\".",
+                    "moreInfo": "The suspension of Ant Group's IPO signaled that tech giants could not outgrow regulation. Capital was redirected from consumer internet (games, delivery) to strategic 'hard tech' (chips, AI, biotech)."
+                },
+                {
+                    "year": 2020,
+                    "category": "Geopolitics & Trade",
+                    "title": "Sweden Bans Huawei 5G",
+                    "desc": "The Divide Hits the Nordics. China retaliated commercially against Ericsson.",
+                    "moreInfo": "Sweden's ban was significant as it is home to Ericsson, Huawei's main rival. It marked the hardening of the 'Digital Iron Curtain' across Europe."
+                },
+                {
+                    "year": 2020,
+                    "category": "Infrastructure & Space",
+                    "title": "Beidou-3 System Completion",
+                    "desc": "Critical infrastructure became immune to a potential US disconnect of GPS.",
+                    "moreInfo": "China completed its global navigation satellite system, rivaling GPS. This ensures the PLA and critical infrastructure can operate independently of US-controlled systems in a conflict."
+                },
+                {
+                    "year": 2021,
+                    "category": "Economy & Industry",
+                    "title": "Xiaomi announces EV Entry",
+                    "desc": "Example of \"Process Knowledge\" spillovers, allowing a phone maker to become a car maker.",
+                    "moreInfo": "Xiaomi pledged $10 billion to build cars. It exemplifies how China's mature electronics supply chain allows tech companies to disrupt the automotive sector with 'smart cabins' and software-defined vehicles."
+                },
+                {
+                    "year": 2021,
+                    "category": "Society & Culture",
+                    "title": "\"Lying Flat\" (Tang Ping)",
+                    "desc": "Young talent rejecting the \"rat race\" forces companies to rely even more on automation.",
+                    "moreInfo": "A social resistance movement against the 996 culture. Young people chose to do the bare minimum to get by, challenging the Party's narrative of 'struggle' and national rejuvenation."
+                },
+                {
+                    "year": 2022,
+                    "category": "Digital & Cyber",
+                    "title": "\"Document 79\" (Delete America)",
+                    "desc": "Directive ordering SOEs to replace foreign software with domestic alternatives.",
+                    "moreInfo": "Known as 'Delete A', this secret directive ordered state-owned enterprises to replace Western software (Oracle, Microsoft, etc.) with domestic versions by 2027, creating a massive market for local SaaS firms."
+                },
+                {
+                    "year": 2022,
+                    "category": "Geopolitics & Trade",
+                    "title": "US Export Controls on Advanced Chips",
+                    "desc": "The AI Chokehold. Forced firms like Huawei and DeepSeek to innovate on efficiency.",
+                    "moreInfo": "The Biden administration blocked the sale of advanced AI chips (like Nvidia A100s) to China. This existential threat forced Chinese AI labs to optimize algorithms to run on weaker hardware and develop domestic AI chips like the Ascend series."
+                },
+                {
+                    "year": 2022,
+                    "category": "Demographics & Talent",
+                    "title": "Historic Population Decline",
+                    "desc": "First decline in 60 years. Made automation an existential necessity.",
+                    "moreInfo": "China's population officially shrank. This confirmed that the country must get rich before it gets old, accelerating the push for AI and robotics to replace the vanishing workforce."
+                },
+                {
+                    "year": 2022,
+                    "category": "Demographics & Talent",
+                    "title": "STEM PhD Dominance",
+                    "desc": "China surpassed the US in annual STEM PhD graduates.",
+                    "moreInfo": "China now graduates nearly twice as many STEM PhDs as the US. This 'human capital' is the fuel for its rapid advances in materials science, AI, and quantum computing."
+                },
+                {
+                    "year": 2023,
+                    "category": "Economy & Industry",
+                    "title": "BYD overtakes Tesla in Production",
+                    "desc": "Symbolic shift of the EV center of gravity to China.",
+                    "moreInfo": "BYD sold more EVs than Tesla in Q4 2023. It proved that China's vertically integrated battery supply chain could produce high-quality EVs at prices Western automakers couldn't match."
+                },
+                {
+                    "year": 2023,
+                    "category": "Technology & Innovation",
+                    "title": "Global Patent Dominance",
+                    "desc": "China accounted for 47% of global patent applications.",
+                    "moreInfo": "While quantity doesn't equal quality, the sheer volume shows a massive R&D mobilization. China now leads in patents for batteries, 5G, and visual AI."
+                },
+                {
+                    "year": 2024,
+                    "category": "Infrastructure & Space",
+                    "title": "\"GuoWang\" Constellation Launch",
+                    "desc": "Aggressive launch of mega-constellation to rival Starlink.",
+                    "moreInfo": "China began launching its 13,000-satellite constellation. This is crucial for 6G dominance and military communications, ensuring China isn't locked out of low-earth orbit."
+                },
+                {
+                    "year": 2024,
+                    "category": "Technology & Innovation",
+                    "title": "The \"54%\" Tipping Point",
+                    "desc": "China installed 54% of the global total of industrial robots.",
+                    "moreInfo": "More than half of all robots installed worldwide went into Chinese factories. This density is creating a 'dark factory' ecosystem that is incredibly resilient to labor shortages."
+                },
+                {
+                    "year": 2025,
+                    "category": "Technology & Innovation",
+                    "title": "DeepSeek & Nurburgring Record",
+                    "desc": "DeepSeek proved open-source AI efficiency. Xiaomi SU7 broke speed records.",
+                    "moreInfo": "DeepSeek-V3 shocked the AI world by matching GPT-4 performance at a fraction of the training cost. Meanwhile, the Xiaomi SU7 Ultra prototype broke the Nurburgring lap record, showcasing Chinese engineering prowess."
+                },
+                {
+                    "year": 2025,
+                    "category": "Policy & Reform",
+                    "title": "15th Five-Year Plan",
+                    "desc": "Focus shifts to \"New Quality Productive Forces\": Quantum, Life Sciences, Low-Altitude Economy.",
+                    "moreInfo": "The blueprint for 2026-2030. It emphasizes 'New Quality Productive Forces' - a term for disruptive technologies that will drive the next leg of growth, moving beyond traditional manufacturing."
+                }
+            ]
+        },
+        {
+            "era": "Era: The Anticipated Future, 2025-2030",
+            "events": [
+                {
+                    "year": 2026,
+                    "category": "Policy & Reform",
+                    "title": "Launch of 15th Five-Year Plan",
+                    "desc": "The \"Quality\" Pivot. Deprioritizing raw GDP growth for \"Self-Sufficiency Rate\".",
+                    "moreInfo": "Expected to formalize the shift away from GDP targets towards metrics of resilience, such as food, energy, and technology self-sufficiency rates."
+                },
+                {
+                    "year": 2026,
+                    "category": "Infrastructure & Space",
+                    "title": "Peak Oil & Coal Consumption",
+                    "desc": "Energy Security. Reducing dependence on imported energy by swapping fossil fuels for renewables.",
+                    "moreInfo": "Driven by the massive deployment of solar and wind, China aims to peak fossil fuel use. This is as much about national security (reducing reliance on the Malacca Strait) as it is about climate change."
+                },
+                {
+                    "year": 2027,
+                    "category": "Technology & Innovation",
+                    "title": "6G Standardization",
+                    "desc": "The Next Connectivity Moat. Embedding AI natively into 6G networks.",
+                    "moreInfo": "China aims to set the global standard for 6G, which will integrate satellite and ground networks. Holding the essential patents would give Chinese firms a massive advantage in the next generation of connectivity."
+                },
+                {
+                    "year": 2027,
+                    "category": "Policy & Reform",
+                    "title": "AI \"Everywhere\" Target (70%)",
+                    "desc": "The AI-First Society. Integrating AI into governance, healthcare, and education.",
+                    "moreInfo": "A target for 70% of large enterprises to be fully digitized and AI-enabled. This 'industrial AI' focus aims to boost productivity to offset the shrinking workforce."
+                },
+                {
+                    "year": 2028,
+                    "category": "Geopolitics & Trade",
+                    "title": "The \"De-Risking\" Deadline",
+                    "desc": "Supply Chain Bifurcation. Aggressive export of standards to the Global South.",
+                    "moreInfo": "By this date, Western firms aim to have diversified supply chains. In response, China is cementing its own trade bloc (Belt and Road) where its standards and technology stack dominate."
+                },
+                {
+                    "year": 2030,
+                    "category": "Infrastructure & Space",
+                    "title": "First Chinese Astronauts on Moon",
+                    "desc": "The Ultimate Soft Power Win. Proving the \"Chinese System\" can match the US.",
+                    "moreInfo": "The target date for a manned lunar landing. It would be a powerful symbol of China's rise and a challenge to US leadership in the new space race."
+                },
+                {
+                    "year": 2030,
+                    "category": "Demographics & Talent",
+                    "title": "Silver Economy Boom",
+                    "desc": "World's largest market for HealthTech and Care Robots.",
+                    "moreInfo": "With over 300 million seniors, China will become the world's laboratory for 'geron-tech', using robotics and AI to care for the elderly in a way no other nation has attempted."
+                }
+            ]
+        }
+    ]
+}
