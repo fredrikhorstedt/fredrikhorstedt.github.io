@@ -96,6 +96,13 @@
                     "moreInfo": "The 'Medium-to-Long-Term Plan for Science and Technology' set a goal to reduce reliance on foreign technology. It introduced policies like 'high-speed rail diplomacy' where foreign firms had to transfer tech to joint ventures to win contracts."
                 },
                 {
+                    "year": 2006,
+                    "category": "Policy & Reform",
+                    "title": "Renewable Energy Law Enacted",
+                    "desc": "The legal foundation that forced grid operators to buy renewable power, guaranteeing demand before wind and solar were cost-competitive.",
+                    "moreInfo": "By mandating offtake, Beijing created the 'demand pull' that birthed its wind and solar industries years before market pricing alone would have justified investment."
+                },
+                {
                     "year": 2008,
                     "category": "Infrastructure & Space",
                     "title": "First High-Speed Rail (Beijing-Tianjin)",
@@ -124,6 +131,13 @@
                     "moreInfo": "The 'Ten Cities, Thousand Vehicles' program launched the EV industry. By subsidizing fleets for taxis and buses, the government created initial demand for battery makers like CATL and BYD to scale up."
                 },
                 {
+                    "year": 2009,
+                    "category": "Economy & Industry",
+                    "title": "\"Golden Sun\" Demonstration Program",
+                    "desc": "Subsidized solar manufacturing capacity instead of consumption, flooding the world with cheap panels.",
+                    "moreInfo": "Production-side support drove global prices down nearly 80% over the next decade and bankrupted many Western competitors."
+                },
+                {
                     "year": 2010,
                     "category": "Geopolitics & Trade",
                     "title": "Rare Earth Export Quotas",
@@ -143,6 +157,20 @@
             "era": "Era: The Pivot to Innovation, 2011-2019",
             "events": [
                 {
+                    "year": 2011,
+                    "category": "Economy & Industry",
+                    "title": "Founding of CATL",
+                    "desc": "The Battery King. Spun out of ATL, CATL focused purely on automotive batteries.",
+                    "moreInfo": "State subsidies and the domestic 'White List' excluded foreign rivals, letting CATL dominate EV cells and eventually supply Tesla, BMW, and Ford."
+                },
+                {
+                    "year": 2011,
+                    "category": "Technology & Innovation",
+                    "title": "CATL Founded (Spin-off from ATL)",
+                    "desc": "Robin Zeng's spin-off bet entirely on automotive batteries and on LFP chemistry while the world chased nickel-cobalt.",
+                    "moreInfo": "That chemistry choice later made Chinese EVs affordable for the mass market, proving that 'good enough' batteries could beat energy-dense but expensive Western packs."
+                },
+                {
                     "year": 2012,
                     "category": "Geopolitics & Trade",
                     "title": "China Overtakes US in Total Trade",
@@ -157,11 +185,25 @@
                     "moreInfo": "As the working-age population began to peak, manufacturers turned to automation. China became the world's largest buyer of industrial robots, driving the growth of domestic robotics firms like Estun and Siasun."
                 },
                 {
+                    "year": 2013,
+                    "category": "Geopolitics & Trade",
+                    "title": "EU-China Solar Dispute Settlement",
+                    "desc": "Anti-dumping tariffs ended in a minimum-price deal that failed to stop Chinese panel imports.",
+                    "moreInfo": "Europe's compromise cemented China's dominance; by 2024 it controlled more than 80% of the global solar supply chain."
+                },
+                {
                     "year": 2014,
                     "category": "Technology & Innovation",
                     "title": "Launch of the \"Big Fund\" (Phase I)",
                     "desc": "Mobilized ~$50bn to build a domestic chip supply chain, aiming to reduce reliance on imports.",
                     "moreInfo": "The National Integrated Circuit Industry Investment Fund poured capital into foundries like SMIC and memory makers like YMTC. It was a direct state intervention to solve the 'lack of core' technology problem."
+                },
+                {
+                    "year": 2014,
+                    "category": "Technology & Innovation",
+                    "title": "Emergence of \"New Forces\" (Nio, Xpeng, Li Auto)",
+                    "desc": "The Software-Defined Car era began as tech entrepreneurs treated vehicles as computers on wheels.",
+                    "moreInfo": "These startups prioritized user experience, voice control, and OTA updates, setting the benchmark for the modern smart cockpit."
                 },
                 {
                     "year": 2014,
@@ -185,6 +227,20 @@
                     "moreInfo": "This industrial policy targeted dominance in sectors like robotics, aerospace, and new energy vehicles. It alarmed Western policymakers and became a central target in the ensuing trade war."
                 },
                 {
+                    "year": 2015,
+                    "category": "Technology & Innovation",
+                    "title": "Goldwind Becomes World's Largest Turbine Maker",
+                    "desc": "China's wind champion overtook Denmark's Vestas, proving prowess in complex precision engineering.",
+                    "moreInfo": "Wind dominance showed Beijing could climb beyond commodity solar panels into high-value energy hardware."
+                },
+                {
+                    "year": 2016,
+                    "category": "Technology & Innovation",
+                    "title": "AlphaGo Defeats Lee Sedol",
+                    "desc": "The \"Sputnik Moment.\" When Google's AlphaGo defeated the world Go champion, it shocked Chinese policymakers.",
+                    "moreInfo": "It proved that AI was no longer theoretical but a decisive strategic advantage, triggering an immediate, massive redirection of state resources into AI research."
+                },
+                {
                     "year": 2016,
                     "category": "Demographics & Talent",
                     "title": "End of \"One-Child Policy\"",
@@ -201,6 +257,13 @@
                 {
                     "year": 2017,
                     "category": "Policy & Reform",
+                    "title": "\"New Generation AI Development Plan\" (AIDP)",
+                    "desc": "The Master Strategy. Issued by the State Council, this plan set the \"Three-Step\" goal for catching up by 2020 and leading by 2025.",
+                    "moreInfo": "It aimed for China to become the world's primary AI innovation center by 2030, mobilizing every layer of government to subsidize AI startups and infrastructure."
+                },
+                {
+                    "year": 2017,
+                    "category": "Policy & Reform",
                     "title": "National Intelligence Law",
                     "desc": "Mandates that organizations support state intelligence work, creating \"Counterparty Risk\" for the West.",
                     "moreInfo": "Article 7 requires any organization or citizen to 'support, assist and cooperate with the state intelligence work.' This law is frequently cited by Western governments as the reason Chinese tech firms cannot be trusted with critical infrastructure."
@@ -211,6 +274,13 @@
                     "title": "Mass adoption of Mobile Payments",
                     "desc": "Widespread use of WeChat/Alipay created a cashless society and massive datasets for AI.",
                     "moreInfo": "China leapfrogged credit cards entirely. The ubiquity of QR code payments generated unprecedented consumer data, fueling AI algorithms for credit scoring, advertising, and governance."
+                },
+                {
+                    "year": 2017,
+                    "category": "Infrastructure & Space",
+                    "title": "World's Largest Floating Solar Farm",
+                    "desc": "Connected a 40 MW plant in Anhui on a flooded coal mine, showcasing renewables in land-constrained settings.",
+                    "moreInfo": "Floating arrays opened export opportunities for land-scarce Asian neighbors and repurposed degraded industrial sites at home."
                 },
                 {
                     "year": 2018,
@@ -235,10 +305,24 @@
                 },
                 {
                     "year": 2019,
+                    "category": "Economy & Industry",
+                    "title": "Tesla Gigafactory Shanghai Opens",
+                    "desc": "The 'Catfish Effect.' A wholly owned Tesla factory forced local EV makers to raise their game.",
+                    "moreInfo": "China broke precedent to let Tesla operate solo, using the pressure to push BYD, Nio, and others toward faster innovation and cost cuts."
+                },
+                {
+                    "year": 2019,
                     "category": "Geopolitics & Trade",
                     "title": "Huawei Entity List Ban",
                     "desc": "The Hardware Blockade. The catalyst for China's \"Hard Tech\" push.",
                     "moreInfo": "The US ban on selling chips and software to Huawei was a 'Sputnik moment.' It convinced Beijing that it could not rely on Western technology and must build a fully independent semiconductor supply chain at any cost."
+                },
+                {
+                    "year": 2019,
+                    "category": "Geopolitics & Trade",
+                    "title": "US Entity List Targets AI \"National Champions\"",
+                    "desc": "The US added SenseTime, Megvii, and iFlytek to the Entity List over surveillance concerns.",
+                    "moreInfo": "Beijing interpreted this as confirmation that AI was a national security domain, accelerating efforts to decouple from US hardware and software."
                 }
             ]
         },
@@ -274,11 +358,32 @@
                     "moreInfo": "China completed its global navigation satellite system, rivaling GPS. This ensures the PLA and critical infrastructure can operate independently of US-controlled systems in a conflict."
                 },
                 {
+                    "year": 2020,
+                    "category": "Technology & Innovation",
+                    "title": "BYD Launches \"Blade Battery\"",
+                    "desc": "Safety breakthrough. A pack structure that will not catch fire even when punctured while staying space-efficient.",
+                    "moreInfo": "By squeezing more range from LFP chemistry, the Blade Battery unlocked the $25,000 EV segment and made LFP competitive with nickel-based packs."
+                },
+                {
                     "year": 2021,
                     "category": "Economy & Industry",
                     "title": "Xiaomi announces EV Entry",
                     "desc": "Example of \"Process Knowledge\" spillovers, allowing a phone maker to become a car maker.",
                     "moreInfo": "Xiaomi pledged $10 billion to build cars. It exemplifies how China's mature electronics supply chain allows tech companies to disrupt the automotive sector with 'smart cabins' and software-defined vehicles."
+                },
+                {
+                    "year": 2021,
+                    "category": "Technology & Innovation",
+                    "title": "Release of \"WuDao 2.0\"",
+                    "desc": "The Scale Breakthrough. The Beijing Academy of AI unveiled a multimodal model with 1.75 trillion parameters.",
+                    "moreInfo": "WuDao 2.0 was roughly ten times larger than GPT-3, proving China's ability to coordinate massive compute clusters and foreshadowing the domestic generative AI boom."
+                },
+                {
+                    "year": 2021,
+                    "category": "Policy & Reform",
+                    "title": "National Carbon Emissions Trading Scheme Launch",
+                    "desc": "Opened the world's largest ETS, initially covering the power sector and setting up a market mechanism for decarbonization.",
+                    "moreInfo": "Prices started low, but the infrastructure now exists to ratchet up costs for polluters and push industry toward cleaner energy."
                 },
                 {
                     "year": 2021,
@@ -303,6 +408,13 @@
                 },
                 {
                     "year": 2022,
+                    "category": "Geopolitics & Trade",
+                    "title": "US Export Controls on Advanced AI Chips",
+                    "desc": "The \"Chokehold.\" Washington specifically banned Nvidia's A100/H100 sales into China.",
+                    "moreInfo": "Chinese labs scrambled to do more with less compute, while Huawei accelerated its Ascend ecosystem to provide a domestic alternative to sanctioned GPUs."
+                },
+                {
+                    "year": 2022,
                     "category": "Demographics & Talent",
                     "title": "Historic Population Decline",
                     "desc": "First decline in 60 years. Made automation an existential necessity.",
@@ -314,6 +426,13 @@
                     "title": "STEM PhD Dominance",
                     "desc": "China surpassed the US in annual STEM PhD graduates.",
                     "moreInfo": "China now graduates nearly twice as many STEM PhDs as the US. This 'human capital' is the fuel for its rapid advances in materials science, AI, and quantum computing."
+                },
+                {
+                    "year": 2022,
+                    "category": "Economy & Industry",
+                    "title": "\"The Three New\" Export Surge",
+                    "desc": "Official data showed EVs, lithium batteries, and solar cells grew 224%, replacing clothing-furniture-appliances as export pillars.",
+                    "moreInfo": "'Sanxin' became the new growth engine and formalized the green-tech stack as China's primary export machine."
                 },
                 {
                     "year": 2023,
@@ -330,11 +449,39 @@
                     "moreInfo": "While quantity doesn't equal quality, the sheer volume shows a massive R&D mobilization. China now leads in patents for batteries, 5G, and visual AI."
                 },
                 {
+                    "year": 2023,
+                    "category": "Geopolitics & Trade",
+                    "title": "China Becomes World's Top Auto Exporter",
+                    "desc": "Driven by EV shipments to Europe and Southeast Asia, China overtook Japan in auto exports.",
+                    "moreInfo": "The surge triggered EU anti-subsidy probes and signaled that 'China Speed' now applied to global car markets."
+                },
+                {
+                    "year": 2023,
+                    "category": "Infrastructure & Space",
+                    "title": "Gobi Desert Mega-Base Projects",
+                    "desc": "Construction accelerated on 450 GW-class wind and solar bases feeding the east via UHV lines.",
+                    "moreInfo": "The planned capacity rivals total power systems of most G7 nations, highlighting the scale of China's renewables build-out."
+                },
+                {
+                    "year": 2023,
+                    "category": "Policy & Reform",
+                    "title": "\"Interim Measures for Generative AI\"",
+                    "desc": "The first regulatory framework for GenAI services emphasized alignment with \"Core Socialist Values\".",
+                    "moreInfo": "China balanced political controls with explicit encouragement for industrial applications, contrasting with the EU's risk-based approach."
+                },
+                {
                     "year": 2024,
                     "category": "Infrastructure & Space",
                     "title": "\"GuoWang\" Constellation Launch",
                     "desc": "Aggressive launch of mega-constellation to rival Starlink.",
                     "moreInfo": "China began launching its 13,000-satellite constellation. This is crucial for 6G dominance and military communications, ensuring China isn't locked out of low-earth orbit."
+                },
+                {
+                    "year": 2024,
+                    "category": "Infrastructure & Space",
+                    "title": "Ultra-Fast Charging & V2G Rollout",
+                    "desc": "Huawei, Xpeng, and others deployed 600-800 kW liquid-cooled chargers plus V2G pilots.",
+                    "moreInfo": "One kilometer of range per second became feasible while vehicle-to-grid tests turned EV fleets into distributed batteries for China's power grid."
                 },
                 {
                     "year": 2024,
@@ -344,11 +491,53 @@
                     "moreInfo": "More than half of all robots installed worldwide went into Chinese factories. This density is creating a 'dark factory' ecosystem that is incredibly resilient to labor shortages."
                 },
                 {
+                    "year": 2024,
+                    "category": "Technology & Innovation",
+                    "title": "First Sodium-Ion Battery EV",
+                    "desc": "JAC and HiNa delivered the first sodium-ion powered EV, showcasing resource-independent chemistry.",
+                    "moreInfo": "Sodium is abundant and cheap, insulating China from lithium shortages and lowering the EV cost floor."
+                },
+                {
+                    "year": 2024,
+                    "category": "Economy & Industry",
+                    "title": "The \"Giant 5\" Consolidation",
+                    "desc": "Market share clustered around five EV champions, forcing ruthless efficiency through price wars.",
+                    "moreInfo": "Capacity utilization near 60% drove 'involution' as BYD, Geely, and peers cut costs, squeezing weaker firms out of the market."
+                },
+                {
+                    "year": 2024,
+                    "category": "Policy & Reform",
+                    "title": "Launch of the \"AI+\" Action Plan",
+                    "desc": "China moved from building models to embedding them in manufacturing as part of \"New Quality Productive Forces\".",
+                    "moreInfo": "Announced at the March Two Sessions, the plan mandates AI integration into key industrial sectors, prioritizing real-economy productivity over consumer chatbots."
+                },
+                {
+                    "year": 2025,
+                    "category": "Technology & Innovation",
+                    "title": "Solid-State Battery Pilots",
+                    "desc": "SAIC, CATL, and others began semi-solid pilots promising 1,000 km range and zero anxiety.",
+                    "moreInfo": "Commercial trials marked the next leap in energy density, reinforcing China's lead in advanced storage tech."
+                },
+                {
+                    "year": 2025,
+                    "category": "Technology & Innovation",
+                    "title": "Green Hydrogen Scaling",
+                    "desc": "China, already the top electrolyzer maker, began shifting from grey to green hydrogen for steel and chemicals.",
+                    "moreInfo": "2025 marks the pivot to using renewable power for hydrogen, tackling the hardest-to-abate industrial emissions."
+                },
+                {
                     "year": 2025,
                     "category": "Technology & Innovation",
                     "title": "DeepSeek & Nurburgring Record",
                     "desc": "DeepSeek proved open-source AI efficiency. Xiaomi SU7 broke speed records.",
                     "moreInfo": "DeepSeek-V3 shocked the AI world by matching GPT-4 performance at a fraction of the training cost. Meanwhile, the Xiaomi SU7 Ultra prototype broke the Nurburgring lap record, showcasing Chinese engineering prowess."
+                },
+                {
+                    "year": 2025,
+                    "category": "Technology & Innovation",
+                    "title": "DeepSeek-R1 \"Open Source\" Shock",
+                    "desc": "The Efficiency Frontier. DeepSeek released a reasoning model rivaling top US systems at a fraction of the cost.",
+                    "moreInfo": "The launch proved that algorithmic efficiency could offset hardware sanctions, undermining assumptions that export controls would cripple Chinese AI progress."
                 },
                 {
                     "year": 2025,
@@ -403,6 +592,13 @@
                     "title": "First Chinese Astronauts on Moon",
                     "desc": "The Ultimate Soft Power Win. Proving the \"Chinese System\" can match the US.",
                     "moreInfo": "The target date for a manned lunar landing. It would be a powerful symbol of China's rise and a challenge to US leadership in the new space race."
+                },
+                {
+                    "year": 2030,
+                    "category": "Economy & Industry",
+                    "title": "Nuclear Fusion \"Artificial Sun\" Pilot",
+                    "desc": "China aims to finish CFETR engineering design, aligning with the 15th Five-Year Plan's future energy push.",
+                    "moreInfo": "While commercial fusion remains distant, the CFETR milestone is framed as the path to energy security beyond renewables and fission."
                 },
                 {
                     "year": 2030,
